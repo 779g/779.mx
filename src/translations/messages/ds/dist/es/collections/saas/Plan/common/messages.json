@@ -1,0 +1,1 @@
+[{"id":"ds.collections.saas.plan.price.free","description":"Text to display when the price is zero","defaultMessage":"Free"},{"id":"ds.collections.saas.plan.price.monthly","description":"Next to the price to indicate periodicity","defaultMessage":"/month"}]

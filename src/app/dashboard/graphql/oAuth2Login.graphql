@@ -1,0 +1,6 @@
+mutation getJWT($code: String!) {
+  oAuth2Login(code: $code) {
+    token
+    maxAge
+  }
+}

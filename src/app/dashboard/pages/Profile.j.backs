@@ -1,0 +1,6 @@
+import * as React from 'react'
+import { MyProfile } from '../components'
+
+export default () => (
+  <MyProfile />
+)

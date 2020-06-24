@@ -1,0 +1,14 @@
+{
+  "verbose": false,
+  "ignore": ["node_modules", "src/translations"],
+  "env": {
+    "NODE_ENV": "development",
+    "BABEL_DISABLE_CACHE": 1,
+    "LOCAL":true
+  },
+  "execMap": {
+    "js": "babel-node --config-file ./babel.config.js"
+  },
+  "ext": ".js,.md,.graphql",
+  "watch": "./src/"
+}

@@ -1,0 +1,23 @@
+query {
+  me {
+    id
+    username
+    email
+    firstName
+    lastName
+    isActive
+    createdAt
+    updatedAt
+    oAuth2Profiles {
+      id
+      picture
+      provider
+      locale
+      name
+      email
+      emailVerified
+      createdAt
+      updatedAt
+    }
+  }
+}

@@ -1,0 +1,7 @@
+mutation getJWT($code: String!) {
+  oAuth2Login(authorization_code: $code) {
+    access_token,
+    expires_in,
+    token_type
+  }
+}

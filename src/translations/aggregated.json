@@ -1,0 +1,167 @@
+[
+  {
+    "id": "app.auth.pages.login.subtitle",
+    "description": "Subtitle for the login page",
+    "defaultMessage": "Login below to your dashboard account"
+  },
+  {
+    "id": "app.auth.pages.login.title",
+    "description": "Dashboard Login Page Title",
+    "defaultMessage": "Dashboard Access"
+  },
+  {
+    "id": "app.auth.pages.unauthorized.contact",
+    "description": "Contact support when theres a login problem",
+    "defaultMessage": "you can contact support here."
+  },
+  {
+    "id": "app.auth.pages.unauthorized.explanation",
+    "description": "Text for the unauthorized page",
+    "defaultMessage": "You can try to login with another account. Alternatively, if you believe this is a mistake"
+  },
+  {
+    "id": "app.auth.pages.unauthorized.subtitle",
+    "description": "Subtitle for the unauthorized page",
+    "defaultMessage": "Your have sucessfully connected your account, but you are not allowed to log in."
+  },
+  {
+    "id": "app.auth.pages.unauthorized.title",
+    "description": "Subtitle for the unauthorized page",
+    "defaultMessage": "Unauthorized"
+  },
+  {
+    "id": "app.dashboard.navtree.account",
+    "description": "Label for account in the navigation sidebar",
+    "defaultMessage": "Account Information"
+  },
+  {
+    "id": "app.dashboard.navtree.account_google_integration",
+    "description": "Label for the google account module in the navigation sidebar",
+    "defaultMessage": "Google Account Link"
+  },
+  {
+    "id": "app.dashboard.navtree.account_home",
+    "description": "Label for the base account section in the navigation sidebar",
+    "defaultMessage": "Overview"
+  },
+  {
+    "id": "app.dashboard.navtree.account_label",
+    "description": "Label for account in the navigation sidebar",
+    "defaultMessage": "Account"
+  },
+  {
+    "id": "app.dashboard.navtree.account_profile",
+    "description": "Label for profile link in the navigation sidebar",
+    "defaultMessage": "My Profile"
+  },
+  {
+    "id": "app.dashboard.navtree.billing",
+    "description": "Label for plan and payment in the navigation sidebar",
+    "defaultMessage": "Plan and payment"
+  },
+  {
+    "id": "app.dashboard.navtree.billing_home",
+    "description": "Label for the base page in the billing section in the navigation sidebar. As in \"General Information\"",
+    "defaultMessage": "General"
+  },
+  {
+    "id": "app.dashboard.navtree.billing_payment",
+    "description": "Label for payment in the navigation sidebar",
+    "defaultMessage": "Payment details"
+  },
+  {
+    "id": "app.dashboard.navtree.billing_plan",
+    "description": "Label for plan in the navigation sidebar",
+    "defaultMessage": "Plan details"
+  },
+  {
+    "id": "app.dashboard.navtree.home",
+    "description": "Label for home in the navigation sidebar",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "app.dashboard.navtree.logout",
+    "description": "Label for logout in the navigation sidebar",
+    "defaultMessage": "Logout"
+  },
+  {
+    "id": "app.dashboard.navtree.shop",
+    "description": "Label for in the navigation sidebar",
+    "defaultMessage": "My Shop"
+  },
+  {
+    "id": "app.dashboard.navtree.shop_contact",
+    "description": "Label for public contact information in the navigation sidebar",
+    "defaultMessage": "Public Information"
+  },
+  {
+    "id": "app.dashboard.navtree.shop_home",
+    "description": "Label for the base page in the shop section in the navigation sidebar",
+    "defaultMessage": "General"
+  },
+  {
+    "id": "app.dashboard.navtree.shop_hours",
+    "description": "Label for hopening hours in the navigation sidebar",
+    "defaultMessage": "Opening Hours"
+  },
+  {
+    "id": "app.dashboard.navtree.website",
+    "description": "Label for website in the navigation sidebar",
+    "defaultMessage": "My Website"
+  },
+  {
+    "id": "app.dashboard.navtree.website_pages",
+    "description": "Label for website pages in the navigation sidebar",
+    "defaultMessage": "Pages"
+  },
+  {
+    "id": "app.dashboard.theme_selector.dark_theme",
+    "description": "Label for the dark theme theme in the theme selector",
+    "defaultMessage": "Dark"
+  },
+  {
+    "id": "app.dashboard.theme_selector.light_theme",
+    "description": "Label for the light theme in the theme selector",
+    "defaultMessage": "Light"
+  },
+  {
+    "id": "app.dashboard.theme_selector.system_theme",
+    "description": "Label for the System theme in the theme selector",
+    "defaultMessage": "System"
+  },
+  {
+    "id": "app.dashboard.theme_selector.theme",
+    "description": "Label for the theme selector",
+    "defaultMessage": "Theme"
+  },
+  {
+    "id": "ds.collections.saas.plan.price.free",
+    "description": "Text to display when the price is zero",
+    "defaultMessage": "Free"
+  },
+  {
+    "id": "ds.collections.saas.plan.price.monthly",
+    "description": "Next to the price to indicate periodicity",
+    "defaultMessage": "/month"
+  },
+  {
+    "id": "ds.dashboard.navigation.horizontal_bar.back",
+    "description": "Navigation back button",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "ds.oauth2.o_login_button.login",
+    "description": "Label for the oauth2 login button",
+    "defaultMessage": "Login with {providerName}"
+  },
+  {
+    "id": "ds.site.paginator.next",
+    "description": "Next button on the paginator",
+    "defaultMessage": "Older"
+  },
+  {
+    "id": "ds.site.paginator.previous",
+    "description": "Previous button on the paginator",
+    "defaultMessage": "Newer"
+  }
+]
