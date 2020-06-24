@@ -31,5 +31,16 @@
   "ds.oauth2.o_login_button.login": "Login with {providerName}",
   "ds.dashboard.navigation.horizontal_bar.back": "Back",
   "ds.collections.saas.plan.price.free": "Free",
-  "ds.collections.saas.plan.price.monthly": "/month"
+  "ds.collections.saas.plan.price.monthly": "/month",
+  "ds.collections.cp.status_bar.connected": "Connected to the GraphQL endpoint at { endpoint }.",
+  "ds.collections.cp.status_bar.connected_short": "Connected.",
+  "ds.collections.cp.status_bar.connection_error": "Error connecting to the endpoint at { endpoint }.",
+  "ds.collections.cp.status_bar.connection_error_short": "Connection error.",
+  "ds.collections.cp.status_bar.loading": "Testing the API connection at { endpoint }",
+  "ds.collections.cp.status_bar.loading_short": "Connecting...",
+  "ds.collections.cp.status_bar.logout": "Logout.",
+  "ds.collections.cp.status_bar.response_is": "Server answered { response }.",
+  "ds.collections.cp.status_bar.response_is_short": "{ response }.",
+  "ds.collections.cp.status_bar.retry": "Retry.",
+  "ds.collections.cp.status_bar.update": "Update."
 }

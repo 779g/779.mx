@@ -77,7 +77,7 @@ return"./src/app/auth/pages/Unauthorized.js"}})}];t.default=p},"./src/app/auth/u
 /*!***************************************!*\
   !*** multi ./src/sitemap/renderer.js ***!
   \***************************************/
-/*! no static exports found */function(e,t,r){e.exports=r(/*! /home/adrian_villa/code/fwrlines/template-react-ssr/src/sitemap/renderer.js */"./src/sitemap/renderer.js")},"@apollo/client":
+/*! no static exports found */function(e,t,r){e.exports=r(/*! /home/adrian_villa/code/779g/779.mx/src/sitemap/renderer.js */"./src/sitemap/renderer.js")},"@apollo/client":
 /*!*********************************!*\
   !*** external "@apollo/client" ***!
   \*********************************/

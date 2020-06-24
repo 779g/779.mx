@@ -31,5 +31,16 @@
   "ds.oauth2.o_login_button.login": "",
   "ds.dashboard.navigation.horizontal_bar.back": "",
   "ds.collections.saas.plan.price.free": "",
-  "ds.collections.saas.plan.price.monthly": ""
+  "ds.collections.saas.plan.price.monthly": "",
+  "ds.collections.cp.status_bar.connected": "",
+  "ds.collections.cp.status_bar.connected_short": "",
+  "ds.collections.cp.status_bar.connection_error": "",
+  "ds.collections.cp.status_bar.connection_error_short": "",
+  "ds.collections.cp.status_bar.loading": "",
+  "ds.collections.cp.status_bar.loading_short": "",
+  "ds.collections.cp.status_bar.logout": "",
+  "ds.collections.cp.status_bar.response_is": "",
+  "ds.collections.cp.status_bar.response_is_short": "",
+  "ds.collections.cp.status_bar.retry": "",
+  "ds.collections.cp.status_bar.update": ""
 }
