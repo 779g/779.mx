@@ -61,44 +61,17 @@ const App = () => {
 
   return (
     <>
-      <h1 className="x-primary c-x">Hello there</h1>
-      <Paginator paginator={{ totalPages: 200, page: 77 }} />
-      <HorizontalBar>Hey</HorizontalBar>
-      <FormattedMessage {...messages.unauthorizedContact} />
       <AnimatedVCaret
         active={active}
         setActive={setActive}
         id="myarrow"
         width="200px"
       />
-      <GraphQLTester />
+      {/*
       <SwitchRouteMap
         routes={routes}
         NotFound={<Redirect to={'404'} />}
-      />
-      {/*}
-      <MyProfile />
-              <Clock
-                thing="thing"
-                thing2="thing2"
-              />
-              {' '}
-              <QueryTester />
-Includes
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to={loginPath}>LOGIN</Link>
-          </li>
-          <li>
-            <Link to="/d/profile">My account</Link>
-          </li>
-        </ul>
-      </nav>
-      */}
+      />*/}
     </>
   )
 }
