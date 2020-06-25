@@ -1,6 +1,6 @@
 import React, { useState, useContext } from 'react'
 //import Prototypes from 'prototypes' //Capitalize, etc
-import { Switch, Redirect, Route, Link } from 'react-router-dom'
+//import { Switch, Redirect, Route, Link } from 'react-router-dom'
 
 //import NotFound from './NotFound.js'
 
@@ -10,14 +10,13 @@ import { Switch, Redirect, Route, Link } from 'react-router-dom'
 //import { MyProfile } from 'ui/local/dashboardMain'
 
 import {
-  AnimatedVCaret,
-  Paginator,
-  HorizontalBar,
-  SwitchRouteMap,
-  GraphQLTester
+  Album,
+  SwitchRouteMap
 } from '@fwrlines/ds'
 
-/* @fwrlines/generator-react-component 2.2.3 */
+import photos from './photos'
+
+/* @fwrlines/generator-react-component 2.2.3
 import { defineMessages, FormattedMessage } from 'react-intl'
 
 const messages = defineMessages({
@@ -52,21 +51,17 @@ const messages = defineMessages({
     description   :'Contact support when theres a login problem'
   }
 })
+*/
 
 
-import routes from './allRoutes.js'
+//import routes from './allRoutes.js'
 
-const App = () => {
-  const [active, setActive] = useState(false)
+const App = () =>
+//const [active, setActive] = useState(false)
 
-  return (
+  (
     <>
-      <AnimatedVCaret
-        active={active}
-        setActive={setActive}
-        id="myarrow"
-        width="200px"
-      />
+      <Album pictures={photos} />
       {/*
       <SwitchRouteMap
         routes={routes}
@@ -74,7 +69,6 @@ const App = () => {
       />*/}
     </>
   )
-}
 
 
 export default App

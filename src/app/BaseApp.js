@@ -15,7 +15,6 @@ export default (props) => (
     config={siteContextConfig}
     initialTheme="system"
   >
-    { 'If this text shows, the decorators are correctly applied' }
     <App {...props} />
   </SiteContextProvider>
 )
