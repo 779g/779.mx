@@ -1,33 +1,51 @@
 export default [
+  /*
   {
     id              :'mnt-1',
-    source          :'https://images.pexels.com/photos/4306946/pexels-photo-4306946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+    source          :'/a00.jpg',
     alt             :'',
     caption         :'France, 2010',
     wrapperClassName:'x-red'
   },
+  */
   {
-    id              :'mnt-2',
-    source          :'https://images.pexels.com/photos/4590785/pexels-photo-4590785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+    id              :'pasha',
+    source          :'/a01.jpg',
     alt             :'mnt',
-    caption         :'U.S.A., 2011',
+    caption         :'Karelia, 2018',
+    wrapperClassName:'x-black'
+        
+  },
+  {
+    id              :'karelia',
+    source          :'/a02.jpg',
+    alt             :'mnt',
+    caption         :'Karelia, 2018',
+    wrapperClassName:'x-green'
+        
+  },
+  {
+    id              :'azadi',
+    source          :'/a03.jpg',
+    alt             :'mnt',
+    caption         :'Teheran, 2016',
     wrapperClassName:'x-background'
         
   },
   {
-    id              :'photooo',
-    source          :'https://images.pexels.com/photos/2733337/pexels-photo-2733337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=126',
-    alt             :'mnt',
-    caption         :'U.S.A., 2011',
-    wrapperClassName:''
+    id              :'hershey',
+    source          :'/a04.jpg',
+    alt             :'',
+    caption         :'Cuba, 2016',
+    wrapperClassName:'x-olive'
         
   },
   {
-    id              :'esfahan',
-    source          :'https://images.pexels.com/photos/2607443/pexels-photo-2607443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=126',
+    id              :'vfc',
+    source          :'/a05.jpg',
     alt             :'',
-    caption         :'Esfahan, 2010',
-    wrapperClassName:''
+    caption         :'France, 2017',
+    wrapperClassName:'x-white'
         
   }
 ]
