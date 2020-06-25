@@ -44,7 +44,31 @@ export default [
     id              :'vfc',
     source          :'/a05.jpg',
     alt             :'',
-    caption         :'France, 2017',
+    caption         :'South of France, 2017',
+    wrapperClassName:'x-white'
+        
+  },
+  {
+    id              :'mty',
+    source          :'/a06.jpg',
+    alt             :'',
+    caption         :'Monterrey, 2016',
+    wrapperClassName:'x-white'
+        
+  },
+  {
+    id              :'mazunte',
+    source          :'/a07.jpg',
+    alt             :'',
+    caption         :'Oaxaca, 2016',
+    wrapperClassName:'x-grey'
+        
+  },
+  {
+    id              :'seine',
+    source          :'/a08.jpg',
+    alt             :'',
+    caption         :'Paris, 2009',
     wrapperClassName:'x-white'
         
   }
