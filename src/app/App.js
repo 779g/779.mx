@@ -14,7 +14,7 @@ import {
   SwitchRouteMap
 } from '@fwrlines/ds'
 
-import photos from './photos'
+import slides from './slides'
 
 /* @fwrlines/generator-react-component 2.2.3
 import { defineMessages, FormattedMessage } from 'react-intl'
@@ -61,7 +61,7 @@ const App = () =>
 
   (
     <>
-      <Album pictures={photos} />
+      <Album slides={slides} />
       {/*
       <SwitchRouteMap
         routes={routes}
