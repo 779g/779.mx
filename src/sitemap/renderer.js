@@ -10,6 +10,8 @@ import {
   urljoin as _u
 } from 'utils'
 
+import slides from 'app/slides'
+
 /* lastmod options
 
 
@@ -33,6 +35,7 @@ The default priority of a page is 0.5.
 
 */
 
+/*
 const STATIC_MAP = {
   HOME:{
     changefreq:'yearly',
@@ -44,7 +47,7 @@ const STATIC_MAP = {
     priority  :.5,
     lastmod   :new Date('2019-09-12')
   }
-}
+}*/
 
 
 export default async (req, res) => {
@@ -53,9 +56,12 @@ export default async (req, res) => {
   const paths = [
   ]
 
-  Object.keys(U.STATIC).forEach((key) => {
-    const { changefreq, priority, lastmod }= STATIC_MAP[key]
-    const loc = U.STATIC[key]
+  slides.forEach((e) => {
+    const loc = e.id
+    const priority = (loc === 'contact' || loc === 'explanation') ? 1 : .5
+    const changefreq = 'monthly'
+    const lastmod =new Date('2020-06-22')
+
     paths.push({
       loc,
       lastmod,

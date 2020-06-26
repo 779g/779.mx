@@ -130,7 +130,13 @@ export default [
         </strong>
       </p>
       <p>&nbsp;</p>
-      <p>Not interested, I just want to see more pictures</p>
+      <p>
+Not interested, I just want
+        {' '}
+        <strike>more wine</strike>
+        {' '}
+to see more pictures
+      </p>
     </>,
     wrapperClassName:'x-white'
         

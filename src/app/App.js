@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react'
+import React, { useEffect } from 'react'
 //import Prototypes from 'prototypes' //Capitalize, etc
 //import { Switch, Redirect, Route, Link } from 'react-router-dom'
 
@@ -56,10 +56,21 @@ const messages = defineMessages({
 
 //import routes from './allRoutes.js'
 
-const App = () =>
-//const [active, setActive] = useState(false)
+const App = () => {
+  const isClient = !(typeof window === 'undefined')
 
-  (
+  useEffect(() => {
+    if (isClient) {
+      slides.forEach(e => {
+        const img = new Image()
+        img.src = e.source
+      })
+    }
+  }, []
+
+    
+  )
+  return (
     <>
       <Album slides={slides} />
       {/*
@@ -69,6 +80,7 @@ const App = () =>
       />*/}
     </>
   )
+}
 
 
 export default App
