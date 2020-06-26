@@ -24,7 +24,7 @@ export default [
     source          :'/a02.jpg',
     alt             :'mnt',
     caption         :'Karelia, 2018',
-    wrapperClassName:'x-green b-x'
+    wrapperClassName:'x-indigo b-x'
         
   },
   {
@@ -84,11 +84,239 @@ export default [
         
   },
   {
-    id              :'cannes',
+    id              :'palmtrees',
     source          :'/a10.jpg',
     alt             :'',
     caption         :'France, 2013',
+    wrapperClassName:'x-white b-x'
+        
+  },
+  {
+    id              :'beach',
+    source          :'/a13.jpg',
+    alt             :'',
+    caption         :'France, 2013',
+    wrapperClassName:'x-white b-x'
+        
+  },
+  {
+    id              :'or',
+    source          :'/a14.jpg',
+    alt             :'',
+    caption         :'France, 2013',
     wrapperClassName:'x-black b-x'
+        
+  },
+
+  /*
+  {
+    id              :'str',
+    source          :'/a15.jpg',
+    alt             :'',
+    caption         :'France, 2008',
+    wrapperClassName:'x-black b-x'
+        
+  },*/
+  {
+    id              :'gc',
+    source          :'/a16.jpg',
+    alt             :'',
+    caption         :'France, 2009',
+    wrapperClassName:'x-black b-dark-x'
+        
+  },
+  {
+    id              :'manhattan',
+    source          :'/a17.jpg',
+    alt             :'',
+    caption         :'U.S.A., 2013',
+    wrapperClassName:'x-white b-x'
+        
+  },
+  {
+    id              :'korcula',
+    source          :'/a18.jpg',
+    alt             :'',
+    caption         :'Croatia, 2013',
+    wrapperClassName:'x-blue b-dark-x'
+        
+  },
+  {
+    id              :'seine2',
+    source          :'/a19.jpg',
+    alt             :'',
+    caption         :'Paris, 2009 (?)',
+    wrapperClassName:'x-blue b-x'
+        
+  },
+  {
+    id              :'siosehpol',
+    source          :'/a20.jpg',
+    alt             :'',
+    caption         :'Esfahan, 2016',
+    wrapperClassName:'x-grey b-x'
+        
+  },
+  {
+    id              :'hlm',
+    source          :'/a21.jpg',
+    alt             :'',
+    caption         :'France, 2013',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'philly',
+    source          :'/a22.jpg',
+    alt             :'',
+    caption         :'U.S.A., 2013',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'mage',
+    source          :'/a26.jpg',
+    alt             :'',
+    caption         :'France, 2010',
+    wrapperClassName:'x-azure b-dark-x'
+        
+  },
+  {
+    id              :'tunnel',
+    source          :'/a27.jpg',
+    alt             :'',
+    caption         :'France, 2011 (?)',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'lou',
+    source          :'/a28.jpg',
+    alt             :'',
+    caption         :'France, 2008',
+    wrapperClassName:'x-white b-x'
+        
+  },
+  {
+    id              :'ale',
+    source          :'/a29.jpg',
+    alt             :'',
+    caption         :'France, 2010',
+    wrapperClassName:'x-white b-x'
+        
+  },
+  {
+    id              :'olympic',
+    source          :'/a30.jpg',
+    alt             :'',
+    caption         :'London, 2012',
+    wrapperClassName:'x-olive b-x'
+        
+  },
+
+  /*
+  {
+    id              :'shinjuku',
+    source          :'/a31.jpg',
+    alt             :'',
+    caption         :'Japan, 2018',
+    wrapperClassName:'x-black b-x'
+        
+  },*/
+  {
+    id              :'kyo',
+    source          :'/a32.jpg',
+    alt             :'',
+    caption         :'Japan, 2018',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'kyo2',
+    source          :'/a33.jpg',
+    alt             :'',
+    caption         :'Japan, 2018',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'collserola',
+    source          :'/a34.jpg',
+    alt             :'',
+    caption         :'Spain, 2017',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'mall',
+    source          :'/a35.jpg',
+    alt             :'',
+    caption         :'Toronto, 2013',
+    wrapperClassName:'x-indigo b-x'
+        
+  },
+  {
+    id              :'nuria',
+    source          :'/a36.jpg',
+    alt             :'',
+    caption         :'Nuria, 2017',
+    wrapperClassName:'x-olive b-x'
+        
+  },
+  {
+    id              :'rb1',
+    source          :'/a38.jpg',
+    alt             :'',
+    caption         :'Tokyo, 2018',
+    wrapperClassName:'x-blue b-dark-x'
+        
+  },
+  {
+    id              :'shinkansen',
+    source          :'/a40.jpg',
+    alt             :'',
+    caption         :'Tokyo, 2018',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'rb2',
+    source          :'/a41.jpg',
+    alt             :'',
+    caption         :'Tokyo, 2018',
+    wrapperClassName:'x-blue b-dark-x'
+        
+  },
+  {
+    id              :'seoul',
+    source          :'/a42.jpg',
+    alt             :'',
+    caption         :'Seoul, 2018',
+    wrapperClassName:'x-blue b-dark-x'
+        
+  },
+  {
+    id              :'rb3',
+    source          :'/a43.jpg',
+    alt             :'',
+    caption         :'Tokyo, 2018',
+    wrapperClassName:'x-black b-x'
+        
+  },
+  {
+    id              :'rb4',
+    source          :'/a44.jpg',
+    alt             :'',
+    caption         :'Tokyo, 2018',
+    wrapperClassName:'x-grey b-dark-x'
+        
+  },
+  {
+    id              :'nrt',
+    source          :'/a45.jpg',
+    alt             :'',
+    caption         :'Japan, 2018',
+    wrapperClassName:'x-white b-x'
         
   },
   {
@@ -131,7 +359,7 @@ export default [
       </p>
       <p>&nbsp;</p>
       <p>
-Not interested, I just want
+I just want
         {' '}
         <strike>more wine</strike>
         {' '}
