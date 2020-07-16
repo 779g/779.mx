@@ -42,5 +42,7 @@
   "ds.collections.cp.status_bar.response_is": "Server answered { response }.",
   "ds.collections.cp.status_bar.response_is_short": "{ response }.",
   "ds.collections.cp.status_bar.retry": "Retry.",
-  "ds.collections.cp.status_bar.update": "Update."
+  "ds.collections.cp.status_bar.update": "Update.",
+  "ds.collections.blog.article_card.cta": "Read more",
+  "ds.collections.experimental.curriculum.title": "Here are my degrees in antichronological order."
 }

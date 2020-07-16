@@ -135,6 +135,11 @@
     "defaultMessage": "Theme"
   },
   {
+    "id": "ds.collections.blog.article_card.cta",
+    "description": "The CTA at the bottom of the article cards",
+    "defaultMessage": "Read more"
+  },
+  {
     "id": "ds.collections.cp.status_bar.connected",
     "description": "Text if the endpoint is connected",
     "defaultMessage": "Connected to the GraphQL endpoint at { endpoint }."
@@ -188,6 +193,11 @@
     "id": "ds.collections.cp.status_bar.update",
     "description": "Text to retry connecting.",
     "defaultMessage": "Update."
+  },
+  {
+    "id": "ds.collections.experimental.curriculum.title",
+    "description": "The title of the component",
+    "defaultMessage": "Here are my degrees in antichronological order."
   },
   {
     "id": "ds.collections.saas.plan.price.free",
