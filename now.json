@@ -2,7 +2,8 @@
   "regions":["bru"],
   "build":{
     "env": {
-      "GRAPHQL_ENDPOINT":"https://s.meccamico.com/graphql"
+      "GRAPHQL_ENDPOINT":"https://s.meccamico.com/graphql",
+      "GOOGLE_ANALYTICS_ID":"UA-51857966-1"
     }
   },
   "env":{
