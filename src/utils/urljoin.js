@@ -1,10 +1,18 @@
 function urljoin(...u) {
-  let first,last
-  if (u[-1] != '*' || u[-1].endsWith('/')) last = '/'
-  else last = ''
-  if (u[0].startsWith('http') || u[0].startsWith('/')) first = ''
-  else first = '/'
-  return first + u.join('/') + last
+  const s = u.filter(e => e).reduce((a, e, i) => {
+    let str = e
+    if (e.startsWith('/') && i > 0) {
+      str = e.substring(1)
+    }
+    if (e.endsWith('/') && i < ( u.length - 1 )) {
+      str = e.substring(0, e.length - 1)
+    }
+
+
+    a.push(str)
+    return a
+  }, [])
+  return s.join('/')
 }
 
 export default urljoin
