@@ -200,6 +200,10 @@
     "defaultMessage": "Here are my degrees in antichronological order."
   },
   {
+    "id": "ds.collections.saas.plan.features",
+    "defaultMessage": "Features"
+  },
+  {
     "id": "ds.collections.saas.plan.price.free",
     "description": "Text to display when the price is zero",
     "defaultMessage": "Free"
