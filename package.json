@@ -26,10 +26,10 @@
     "rc": "BACKEND=true npm run renderer:compile",
     "ss": "BACKEND=true npm run sitemap:start",
     "sc": "BACKEND=true npm run sitemap:compile",
-    "build": "npm run cpc && npm run rc && npm run sc",
-    "now-build": "npm run cpc",
+    "build:local": "npm run cpc && npm run rc && npm run sc",
+    "now-build": "echo 0",
     "deploy-commit": "git add . && git commit -m '[Auto] Compile and deploy from cli' && git push",
-    "build:deploy": "npm run build && npm run deploy-commit",
+    "build:deploy": "npm run build:local && npm run deploy-commit",
     "bd": "npm run build:deploy",
     "test-eslint": "eslint src/client.gql.js",
     "relink": "npm link @fwrlines/ds && npm link @fwrlines/utils"
