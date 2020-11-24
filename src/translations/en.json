@@ -45,5 +45,8 @@
   "ds.collections.cp.status_bar.update": "Update.",
   "ds.collections.blog.article_card.cta": "Read more",
   "ds.collections.experimental.curriculum.title": "Here are my degrees in antichronological order.",
-  "ds.collections.saas.plan.features": "Features"
+  "ds.collections.saas.plan.features": "Features",
+  "ds.common.shortener.read_more": "Read more.",
+  "ds.common.shortener.show": "Show",
+  "ds.form.input_label.optional": "Optional"
 }

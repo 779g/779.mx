@@ -45,5 +45,8 @@
   "ds.collections.cp.status_bar.update": "",
   "ds.collections.blog.article_card.cta": "",
   "ds.collections.experimental.curriculum.title": "",
-  "ds.collections.saas.plan.features": ""
+  "ds.collections.saas.plan.features": "",
+  "ds.common.shortener.read_more": "",
+  "ds.common.shortener.show": "",
+  "ds.form.input_label.optional": ""
 }

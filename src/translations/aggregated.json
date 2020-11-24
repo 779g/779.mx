@@ -214,9 +214,24 @@
     "defaultMessage": "/month"
   },
   {
+    "id": "ds.common.shortener.read_more",
+    "description": "Read more on the shortener",
+    "defaultMessage": "Read more."
+  },
+  {
+    "id": "ds.common.shortener.show",
+    "description": "Used on the minimal version of the shortener",
+    "defaultMessage": "Show"
+  },
+  {
     "id": "ds.dashboard.navigation.horizontal_bar.back",
     "description": "Navigation back button",
     "defaultMessage": "Back"
+  },
+  {
+    "id": "ds.form.input_label.optional",
+    "description": "What appears after a form label when the input is optional",
+    "defaultMessage": "Optional"
   },
   {
     "id": "ds.oauth2.o_login_button.login",
