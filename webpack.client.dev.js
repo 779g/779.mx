@@ -44,8 +44,8 @@ module.exports = {
       path.resolve(__dirname, './src/assets/images'),
       path.resolve(__dirname, './src/assets/favicon'),
       path.resolve(__dirname, './src/assets/other'),
-      path.resolve(__dirname, './node_modules/@fwrlines/ds/src/assets/fonts'),
-      path.resolve(__dirname, './node_modules/@fwrlines/ds/src/assets/images')
+      path.resolve(__dirname, './node_modules/@fwrlines/ds.core/src/assets/fonts'),
+      path.resolve(__dirname, './node_modules/@fwrlines/ds.core/src/assets/images')
     ],
     watchContentBase  :true,
     historyApiFallback:true,
