@@ -348,7 +348,7 @@ export default [
         <strong>
           Source code :
           <a
-            href="https://github.com/779g/779.mx"
+            href="https://github.com/advl/779.mx"
             className="c-on-x yi"
             target="_blank"
             onClick={e => e.stopPropagation()}
