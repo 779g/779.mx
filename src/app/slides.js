@@ -68,7 +68,7 @@ export default [
         
   },
   {
-    id              :'seine',
+    id              :'sn',
     source          :'/a08.jpg',
     alt             :'',
     caption         :'Paris, 2009',
@@ -100,7 +100,7 @@ export default [
         
   },
   {
-    id              :'or',
+    id              :'brussels',
     source          :'/a14.jpg',
     alt             :'',
     caption         :'France, 2013',
@@ -150,7 +150,7 @@ export default [
         
   },
   {
-    id              :'siosehpol',
+    id              :'playing-cards',
     source          :'/a20.jpg',
     alt             :'',
     caption         :'Esfahan, 2016',
@@ -158,7 +158,7 @@ export default [
         
   },
   {
-    id              :'hlm',
+    id              :'my-leaving',
     source          :'/a21.jpg',
     alt             :'',
     caption         :'France, 2013',
@@ -166,7 +166,7 @@ export default [
         
   },
   {
-    id              :'philly',
+    id              :'cheesesteak',
     source          :'/a22.jpg',
     alt             :'',
     caption         :'U.S.A., 2013',
@@ -240,7 +240,7 @@ export default [
         
   },
   {
-    id              :'collserola',
+    id              :'another-sunday',
     source          :'/a34.jpg',
     alt             :'',
     caption         :'Spain, 2017',
@@ -248,7 +248,7 @@ export default [
         
   },
   {
-    id              :'mall',
+    id              :'capitalism',
     source          :'/a35.jpg',
     alt             :'',
     caption         :'Toronto, 2013',

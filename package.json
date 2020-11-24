@@ -58,7 +58,7 @@
     "graphql": "^15.1.0",
     "graphql-tag": "^2.10.3",
     "module-alias": "^2.2.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
