@@ -2,7 +2,7 @@
 
 ![779.mx](https://i.imgur.com/RsOlrtr.gif)
 
-Twelve years of Polaroid type 100 photography
+A simple Polaroid photography portofolio using React and randomized navigation. [Visit](https://779.mx)
 
 ## Useful commands
 
