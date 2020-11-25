@@ -353,7 +353,7 @@ export default [
             target="_blank"
             onClick={e => e.stopPropagation()}
           >
-            github.com/779g/779.mx
+            github.com/advl/779.mx
           </a>
         </strong>
       </p>
