@@ -1,0 +1,126 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "ds.main": [
+      1,
+      2,
+      4,
+      0
+    ],
+    "main": [
+      0,
+      2,
+      4,
+      1
+    ],
+    "runtime": [
+      0,
+      1,
+      4,
+      2
+    ],
+    "@fwrlines/alphabet-scss/main.scss": [
+      3
+    ],
+    "vendors~main": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "./album.scss": [
+      5
+    ],
+    "./figure.scss": [
+      6
+    ]
+  },
+  "assets": {
+    "0": {
+      "js": [
+        {
+          "file": "ds.main.js?c354aa01",
+          "hash": "bdf2eed4e317426804db",
+          "publicPath": "/ds.main.js?c354aa01"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "main.js?c354aa01",
+          "hash": "8299810c359d1222e3bd",
+          "publicPath": "/main.js?c354aa01"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "runtime.js?c354aa01",
+          "hash": "2fa534eb57ebb61e92cd",
+          "publicPath": "/runtime.js?c354aa01"
+        }
+      ]
+    },
+    "3": {
+      "css": [
+        {
+          "file": "styles.css?ad938",
+          "hash": "a3750ecd4152a069e11b",
+          "publicPath": "/styles.css?ad938"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.js?c354aa01",
+          "hash": "a3750ecd4152a069e11b",
+          "publicPath": "/styles.js?c354aa01"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "vendors~main.js?c354aa01",
+          "hash": "87119fef5ac393b96e39",
+          "publicPath": "/vendors~main.js?c354aa01"
+        }
+      ]
+    },
+    "5": {
+      "css": [
+        {
+          "file": "5.css?a4b1c",
+          "hash": "97a5f43f43348d580455",
+          "publicPath": "/5.css?a4b1c"
+        }
+      ],
+      "js": [
+        {
+          "file": "5.js?c354aa01",
+          "hash": "97a5f43f43348d580455",
+          "publicPath": "/5.js?c354aa01"
+        }
+      ]
+    },
+    "6": {
+      "css": [
+        {
+          "file": "6.css?a7c3e",
+          "hash": "d92eae5af2b92c964a88",
+          "publicPath": "/6.css?a7c3e"
+        }
+      ],
+      "js": [
+        {
+          "file": "6.js?c354aa01",
+          "hash": "d92eae5af2b92c964a88",
+          "publicPath": "/6.js?c354aa01"
+        }
+      ]
+    }
+  }
+}

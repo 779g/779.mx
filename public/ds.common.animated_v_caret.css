@@ -1,0 +1,1 @@
+.animated_v_caret{display:inline;cursor:pointer}.animated_v_caret line{-webkit-transition:stroke .3s;transition:stroke .3s;stroke:var(--x,var(--black,#000))}.animated_v_caret.active line{stroke:var(--y,var(--x,var(--black,#000)))}
