@@ -95,7 +95,7 @@
     "ignore-loader": "^0.1.2",
     "mini-css-extract-plugin": "^0.9.0",
     "nodemon": "^2.0.4",
-    "postcss": "^7.0.32",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.7.0",
     "react-loadable-ssr-addon": "^0.2.2",
